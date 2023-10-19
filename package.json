@@ -1,0 +1,22 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "\"PoC\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NataliaS007/NodeJs.git"
+  },
+  "keywords": [
+    "[\"test\"]"
+  ],
+  "author": "semenova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaS007/NodeJs/issues"
+  },
+  "homepage": "https://github.com/NataliaS007/NodeJs#readme"
+}
